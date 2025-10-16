@@ -252,10 +252,10 @@ Program C++ ini adalah alat bantu sederhana berbasis menu interaktif yang diranc
 ![Screenshot Output 1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul%202/output-2-1.png)
 
 ##### Output 2
-![Screenshot Output 2](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul%202/Output-2-2.png)
+![Screenshot Output 2](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul%202/output-2-2.png)
 
 ##### Output 3
-![Screenshot Output 3](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul%202/Output-2-3.png)
+![Screenshot Output 3](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul%202/output-2-3.png)
 
 
 ## Kesimpulan
@@ -267,4 +267,5 @@ Program C++ ini adalah alat bantu sederhana berbasis menu interaktif yang diranc
 Elex Media Komputindo.
 
 <br>
+
 
