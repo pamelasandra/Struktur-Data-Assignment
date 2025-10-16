@@ -129,13 +129,13 @@ penjelasan singkat  3
 Program C++ ini dirancang untuk mencetak sebuah pola angka yang simetris dan reflektif, seperti cermin. Berikan sebuah angka sebagai input, dan program akan menggunakan angka itu untuk memulai polanya. Di setiap baris, program akan menampilkan dua urutan angka yang dipisahkan oleh tanda bintang (*) di tengah. Urutan di sebelah kiri akan menghitung mundur ke angka 1, sementara urutan di sebelah kanan akan menghitung maju dari 1. Pola ini akan semakin mengecil di setiap barisnya, hingga akhirnya hanya tersisa satu tanda bintang di bagian paling bawah.
 
 ##### Output 1
-![Screenshot Output 1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul 1/Output-1-1.png)
+![Screenshot Output 1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul%201/Output-1-1.png)
 
 ##### Output 2
-![Screenshot Output 2](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul 1/Output-1-2.png)
+![Screenshot Output 2](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul%201/Output-1-2.png)
 
 ##### Output 3
-![Screenshot Output 3](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul 1/Output-1-3.png)
+![Screenshot Output 3](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul%201/Output-1-3.png)
 
 
 ## Kesimpulan
@@ -145,4 +145,5 @@ Program C++ ini dirancang untuk mencetak sebuah pola angka yang simetris dan ref
 [1]
 <br>Asyiknya Belajar Struktur Data di Planet C++. (n.d.). (n.p.):
 Elex Media Komputindo.
+
 <br>
