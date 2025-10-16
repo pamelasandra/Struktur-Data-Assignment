@@ -249,13 +249,13 @@ penjelasan singkat  3
 Program C++ ini adalah alat bantu sederhana berbasis menu interaktif yang dirancang untuk menganalisis data angka yang tersimpan dalam array berisi 10 elemen. Fungsi utamanya adalah menyediakan empat operasi dasar: menampilkan keseluruhan isi array, mencari nilai maksimum (cariMaksimum), mencari nilai minimum (cariMinimum), dan menghitung rata-rata (hitungRataRata) semua elemen. Pengguna dapat berinteraksi dengan program untuk memilih operasi yang diinginkan, dan program akan terus berjalan hingga pengguna memilih opsi untuk keluar.
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul 2/Output-2-1.png)
+![Screenshot Output 1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul%202/Output-2-1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 1_1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul 2/Output-2-2.png)
+![Screenshot Output 2](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul%202/Output-2-2.png)
 
 ##### Output 3
-![Screenshot Output Unguided 1_1](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul 2/Output-2-3.png)
+![Screenshot Output 3](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul%202/Output-2-3.png)
 
 
 ## Kesimpulan
@@ -265,4 +265,5 @@ Program C++ ini adalah alat bantu sederhana berbasis menu interaktif yang diranc
 [1]
 <br>Asyiknya Belajar Struktur Data di Planet C++. (n.d.). (n.p.):
 Elex Media Komputindo.
+
 <br>
