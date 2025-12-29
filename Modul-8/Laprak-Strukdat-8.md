@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 8 - Queue</h1>
-<p align="center">Pamela Sandra Amelia Br Ginting - 103112430228</p>
+<p align="center">Pamela Sandra Amelia Br Ginting - 103112430152</p>
 
 ## Dasar Teori
 Queue (antrean) adalah struktur data linear yang cara kerjanya menyerupai antrean di dunia nyata, seperti antrean pada loket tiket kereta api. Dalam mekanisme ini, individu yang pertama kali datang akan menjadi orang pertama yang dilayani, sedangkan mereka yang bergabung belakangan harus menunggu hingga giliran terakhir. Oleh karena itu, prinsip utama yang mendasari Queue adalah FIFO (First In, First Out), yang berarti data yang pertama kali dimasukkan ke dalam sistem akan menjadi data yang pertama kali diproses atau dikeluarkan. Dalam bahasa pemrograman C, struktur data ini umumnya diimplementasikan dengan memanfaatkan tipe data array statis maupun struktur linked list yang lebih dinamis.
