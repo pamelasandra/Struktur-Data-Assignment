@@ -826,16 +826,6 @@ program ini berfungsi untuk menampilkan hasil pembaruan, kemudian mencari data m
 
 ## Unguided
 
-## 1. 
-<img width="944" height="618" alt="image" src="https://github.com/user-attachments/assets/e5912248-6522-4f20-b1d5-2eb6ea82c49b" />
-<img width="895" height="568" alt="image" src="https://github.com/user-attachments/assets/ce078872-9a7e-4b40-93c9-5deb9a4b4cab" />
-
-## 2.
-<img width="939" height="244" alt="image" src="https://github.com/user-attachments/assets/ec77f5b9-8b7d-4a83-803e-34235b35639e" />
-
-## 3.
-<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/e2ccdec6-d5c8-4815-9f5f-f8137728ad38" />
-
 
 ```C++
 //Doublylist.h
