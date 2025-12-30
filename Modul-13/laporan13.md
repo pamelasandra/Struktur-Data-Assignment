@@ -952,7 +952,7 @@ int main(){
 ```
 
 ### Output soal 2 :
-![Screenshot Output 2](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul-13/Output-13-2.png)
+![Screenshot Output 2](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul-13/Output-13-1.png)
 
 
 Program ini mengimplementasikan struktur data Multi Linked List yang dirancang untuk menangani relasi One-to-Many, di mana satu node induk (parent) dapat mengelola atau memiliki beberapa node anak (child) secara sekaligus. Secara operasional, program ini menyediakan antarmuka untuk menambahkan data baru ke dalam hierarki, menghapus elemen yang tidak lagi diperlukan, serta menyajikan seluruh informasi secara terstruktur. Dengan sistem ini, keterkaitan antara entitas utama dan detail turunannya dapat divisualisasikan dengan jelas, memudahkan pengguna dalam melihat distribusi data dari setiap induk.
@@ -1198,7 +1198,7 @@ int main() {
 ```
 
 ### Output:
-![Screenshot Output 2](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul-13/Output-13-3.png)
+![Screenshot Output 2](https://github.com/pamelasandra/Struktur-Data-Assignment/blob/main/Modul-13/Output-13-2.png)
 
 Program ini menerapkan struktur data Circular Singly Linked List, sebuah variasi linked list di mana penunjuk (pointer) pada elemen terakhir tidak bernilai kosong, melainkan diarahkan kembali untuk menunjuk ke elemen pertama sehingga membentuk sebuah lingkaran. Secara fungsional, program ini sangat fleksibel dalam manajemen data mahasiswa karena mendukung penambahan elemen di berbagai posisi, baik itu di posisi paling depan (head), di posisi paling belakang (tail), maupun setelah elemen tertentu di tengah daftar. Selain itu, program ini dilengkapi dengan fitur pencarian spesifik menggunakan NIM sebagai kunci identifikasi, serta mampu menampilkan seluruh koleksi data mahasiswa secara berurutan dan berkesinambungan.
 
